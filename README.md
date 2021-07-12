@@ -3,7 +3,8 @@ An Interactive Webpage in JavaScript Language
 
 ![1-header.png](https://github.com/BHashemi2021/UFOs/blob/main/resources/1-header.png)
 
-## Overview:
+## Overview
+
 The objective of this undertaking is to prepare a webpage in JavaScript language to display UFO sightings and related information for the upcoming gathering of UFO enthusiasts in McMinnville, Oregon.
 
 
@@ -37,7 +38,7 @@ Figure 2: Search Reset and Webpage Reload
 -----------------------------
 
 
-## Summary:
+## Summary
 
   1- One draback of this webpage is that all the data is loaded when the webpage is run for the first time.
 
