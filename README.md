@@ -9,25 +9,35 @@ The objective of this undertaking is to prepare a webpage in JavaScript language
 
 ### The purpose 
   
-  1- As the data file is reltively a big one, we need to design filters so that users could search the data they wish by a few keywords provided (Figure 1).
+  1- As the data file is reltively a big one, we need to design filters so that users could search the data they wish by a few keywords provided.
   
-  
-  Figure 1
-
   2- The filters need to be reset so that the next user cold perform fresh search.
 
 ##  Results
-The webpage is ready for use and the users could enter their keywords and 
+The webpage is ready for use and the users could enter their keywords and retrieve results (Figure 1) 
 
 
+  #### Figure 1: Filters and a snippet of a sample search 
+  
+  ------------------------
+  
+  ![2-filtered.png](https://github.com/BHashemi2021/UFOs/blob/main/resources/2-filtered.png)
+  
+  --------------------------
+  
+The search windows could be easily cleared from previous searches by an acive text on the right upper corner of the webpage (Figue 2).
+
+Figure 2: Search Reset and Webpage Reload
+
+![3-reset-reload-txt.png](https://github.com/BHashemi2021/UFOs/blob/main/resources/3-reset-reload-txt.png)
 
 ## Summary:
 
-1- One draback of this webpage is that all the data is loaded when the webpage is run for the first time.
+  1- One draback of this webpage is that all the data is loaded when the webpage is run for the first time.
 
-2- The webpage could be improved if several related images could accompany the searches, e.g. triabgular formation, vs circulr, etc.
+  2- The webpage could be improved if several related images could accompany the searches, e.g. triabgular formation, vs circulr, etc.
 
-3- The webpage could be further improved if the users could print out or email their search results.
+  3- The webpage could be further improved if the users could print out or email their search results.
 
 
 
