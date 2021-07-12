@@ -42,7 +42,7 @@ Figure 2: Search Reset and Webpage Reload
 
   1- One draback of this webpage is that all the data is loaded when the webpage is run for the first time.
 
-  2- The webpage could be improved if several related images could accompany the searches, e.g. triangular formation, vs circulr, etc of UFOs.
+  2- The webpage could be improved if several related images could accompany the searches, e.g. triangular vs circulr, etc shape of UFOs.
 
   3- The webpage could be further improved if the users could print out or email their search results.
 
