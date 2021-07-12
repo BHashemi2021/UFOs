@@ -1,6 +1,8 @@
 # UFO Sightings
 UFO sightings: An Interactive webpage in JavaScript language
 
+![1-header.png](https://github.com/BHashemi2021/UFOs/blob/main/resources/1-header.png)
+
 ## Overview:
 The objective of this undertaking is to prepare a webpage in JavaScript language to display UFO sightings and related information for the upcoming gathering of UFO enthusiasts in McMinnville, Oregon.
 
