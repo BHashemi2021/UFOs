@@ -1,34 +1,31 @@
-# UFOs
-UFO sightings
+# UFO Sightings
+UFO sightings: An Interactive webpage in JavaScript language
 
-## Overview of the analysis:
+## Overview:
+The objective of this undertaking is to prepare a webpage in JavaScript language to display UFO sightings and related information for the upcoming gathering of UFO enthusiasts in McMinnville, Oregon.
+
 
 ### The purpose 
-(The purpose is well defines 2 points)
+  
+  1- As the data file is reltively a big one, we need to design filters so that users could search the data they wish by a few keywords provided (Figure 1).
+  
+  
+  Figure 1
 
+  2- The filters need to be reset so that the next user cold perform fresh search.
 
 ##  Results
+The webpage is ready for use and the users could enter their keywords and 
 
-(There is a description of how to perform a search, with images. (4 pt))
 
 
 ## Summary:
 
-The summary addresses one drawback of this webpage (2 pt)
+1- One draback of this webpage is that all the data is loaded when the webpage is run for the first time.
 
-The summary addresses two additional recommendations for further development (4 pt)
+2- The webpage could be improved if several related images could accompany the searches, e.g. triabgular formation, vs circulr, etc.
+
+3- The webpage could be further improved if the users could print out or email their search results.
 
 
 
-
-#### Rubric ---------------------------
-
-There is a title, 
-
-there are multiple paragraphs. (2 pt)
-
-Each paragraph has a heading. (2 pt)
-
-There are subheadings to break up text. (2 pt)
-
-Images are formatted and displayed where appropriate. (2 pt)
