@@ -1,5 +1,5 @@
 # UFO Sightings
-UFO sightings: An Interactive webpage in JavaScript language
+An Interactive Webpage in JavaScript Language
 
 ![1-header.png](https://github.com/BHashemi2021/UFOs/blob/main/resources/1-header.png)
 
