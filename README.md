@@ -11,10 +11,10 @@ The objective of this undertaking is to prepare a webpage in JavaScript language
   
   1- As the data file is reltively a big one, we need to design filters so that users could search the data they wish by a few keywords provided.
   
-  2- The filters need to be reset so that the next user cold perform fresh search.
+  2- The filters need to be reset so that the next user could perform a fresh search.
 
 ##  Results
-The webpage is ready for use and the users could enter their keywords and retrieve results (Figure 1) 
+The webpage is ready for use and the users could enter their keywords and retrieve the intended results (Figure 1) 
 
 
   #### Figure 1: Filters and a snippet of a sample search 
@@ -27,9 +27,15 @@ The webpage is ready for use and the users could enter their keywords and retrie
   
 The search windows could be easily cleared from previous searches by an acive text on the right upper corner of the webpage (Figue 2).
 
+
 Figure 2: Search Reset and Webpage Reload
 
+-------------------------
+
 ![3-reset-reload-txt.png](https://github.com/BHashemi2021/UFOs/blob/main/resources/3-reset-reload-txt.png)
+
+-----------------------------
+
 
 ## Summary:
 
